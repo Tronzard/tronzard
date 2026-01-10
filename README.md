@@ -18,5 +18,6 @@ Game Developer<br>Software Engineer
 ---
 [![](https://visitcount.itsvg.in/api?id=tronzard&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![snake gif](https://github.com/tronzard/tronzard/blob/output/github-snake-dark.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
