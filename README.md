@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Satyam Khatiwada</h1>
+<h1 align="center"> Hi, I'm Satyam Khatiwada</h1>
 <h3 align="center">Game Developer • Software Engineer</h3>
 
 <p align="center">
@@ -13,23 +13,23 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎮 **Game Developer** with **professional hands-on experience using Godot**
-- 🧠 **Software Engineer** with strong fundamentals in low-level & high-level programming
-- 🕹 Built **2D/3D games**, gameplay systems, and engine-level logic
-- 🧩 Comfortable working close to the engine, tools, and rendering pipelines
-- 🔧 Enjoy solving performance, architecture, and gameplay logic problems
-- 🌱 Constantly learning and experimenting with new tech & workflows
+-  **Game Developer** with **professional hands-on experience using Godot**
+-  **Software Engineer** with strong fundamentals in low-level & high-level programming
+-  Built **2D/3D games**, gameplay systems, and engine-level logic
+-  Comfortable working close to the engine, tools, and rendering pipelines
+-  Enjoy solving performance, architecture, and gameplay logic problems
+-  Constantly learning and experimenting with new tech & workflows
 
 ---
 
-## 🧠 Current Focus
+##  Current Focus
 
-- 🔭 Advanced **Godot Engine** systems (signals, state machines, optimization)
-- 🧪 Clean, modular **game architecture**
-- 🧱 Expanding into **backend & tooling** for games
-- 🎨 Improving **game visuals & UI workflows**
+-  Advanced **Godot Engine** systems (signals, state machines, optimization)
+-  Clean, modular **game architecture**
+-  Expanding into **backend & tooling** for games
+-  Improving **game visuals & UI workflows**
 
 ---
 
@@ -83,17 +83,17 @@
 
 ---
 
-## 📌 Experience & Highlights
+##  Experience & Highlights
 
-- 🎯 Designed and implemented **gameplay mechanics & systems**
-- ⚙️ Worked deeply with **Godot Engine scripting & architecture**
-- 🧠 Strong understanding of **memory, performance, and logic flow**
-- 🖌 Used **Aseprite & Photoshop** for sprites, UI, and assets
-- 🔁 Version control & collaboration using **Git**
+-  Designed and implemented **gameplay mechanics & systems**
+-  Worked deeply with **Godot Engine scripting & architecture**
+-  Strong understanding of **memory, performance, and logic flow**
+-  Used **Aseprite & Photoshop** for sprites, UI, and assets
+-  Version control & collaboration using **Git**
 
 ---
 
-## 🎮 Platforms
+##  Platforms
 
 - 🕹 **Godot Engine**
 - 🧩 **Unity**
@@ -101,7 +101,7 @@
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tronzard) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-exe/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satyamkhatiwada1999@gmail.com) 
 
