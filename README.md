@@ -33,7 +33,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### 🎮 Game Development
 <p>
@@ -95,9 +95,9 @@
 
 ##  Platforms
 
-- 🕹 **Godot Engine**
-- 🧩 **Unity**
-- 🌐 **itch.io**
+-  **Godot Engine**
+-  **Unity**
+-  **itch.io**
 
 ---
 
