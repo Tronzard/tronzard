@@ -90,14 +90,14 @@
 
 ## Experience & Highlights
 
-* Designed and implemented **machine learning models and predictive systems**
-* Worked with **Python, Pandas, NumPy, Scikit-learn, Jupyter & OpenCV**
-* Performed **data preprocessing, feature engineering, model training & evaluation**
-* Built **computer vision and gesture recognition** applications
-* Designed and implemented **gameplay mechanics & systems**
-* Worked deeply with **Godot Engine scripting & architecture**
-* Strong understanding of **memory, performance, and logic flow**
-* Used **Aseprite & Photoshop** for sprites, UI, and assets
+* **machine learning models and predictive systems**
+* **Python, Pandas, NumPy, Scikit-learn, Jupyter & OpenCV**
+* **data preprocessing, feature engineering, model training & evaluation**
+* **computer vision and gesture recognition** applications
+* **gameplay mechanics & systems**
+* **Godot Engine scripting & architecture**
+* **memory, performance, and logic flow**
+* **Aseprite & Photoshop** for sprites, UI, and assets
 * Version control & collaboration using **Git**
 
 ---
