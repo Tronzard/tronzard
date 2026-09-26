@@ -31,13 +31,10 @@
 
 * Machine Learning & Applied AI
 * **Python for Machine Learning & Data Science**
-* Data preprocessing, feature engineering & exploratory data analysis
+* Data preprocessing, feature engineering & exploratory analysis
 * **Scikit-learn** model development and evaluation
-* Computer Vision with **OpenCV**
-* Reproducible ML experimentation with **Jupyter Notebook**
 * Advanced **Godot Engine** systems (signals, state machines, optimization)
-* Clean, modular **software & game architecture**
-* Expanding into **backend & tooling** for ML and games
+* Expanding into **backend & tooling** for ML
 * Improving **game visuals, UI & AI-driven workflows**
 
 ---
