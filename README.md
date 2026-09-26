@@ -13,20 +13,6 @@
 
 ---
 
-## About Me
-
-* **Machine Learning Engineer** focused on building practical ML models and data-driven applications
-* **Software Engineer** with strong fundamentals in low-level & high-level programming
-* **Game Developer** with professional hands-on experience using **Godot**
-* Experienced with **Python, Scikit-learn, Pandas, NumPy, Jupyter, and OpenCV**
-* Built **machine learning models, computer vision applications, and predictive systems**
-* Built **2D/3D games**, gameplay systems, and engine-level logic
-* Comfortable working with data pipelines, model experimentation, software architecture, and performance optimization
-* Enjoy solving **machine learning, performance, architecture, and gameplay logic problems**
-* Constantly learning and experimenting with new technologies & workflows
-
----
-
 ## Current Focus
 
 * Machine Learning & Applied AI
